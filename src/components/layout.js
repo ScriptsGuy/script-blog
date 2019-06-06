@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import "font-awesome/css/font-awesome.min.css"
 
 import { rhythm, scale } from "../utils/typography"
 
@@ -13,7 +14,9 @@ class Layout extends React.Component {
       header = (
         <h1
           style={{
-            ...scale(1.5),
+            ...scale(1.2),
+            fontFamily: `Cairo, sans-serif`,
+
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -34,7 +37,7 @@ class Layout extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Cairo, sans-serif`,
             marginTop: 0,
           }}
         >
@@ -63,7 +66,16 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          <p>© {new Date().getFullYear()}, Made with love in Algeria</p>
+          <p>
+            © {new Date().getFullYear()} Made with love{" "}
+            <i
+              style={{
+                color: "red",
+              }}
+              className="fa fa-heart"
+            />{" "}
+            in Algeria
+          </p>
         </footer>
       </div>
     )

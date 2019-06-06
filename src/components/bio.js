@@ -37,12 +37,12 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
+            <p style={{ fontSize: 16 }}>
               <strong>{author}</strong> شاب جزائري درست الهندسة الكهربائية
               وتعلمت البرمجة بنفسي وأهوى الكتابة حولها
               {` `}
               <a href={`https://facebook.com/${social.twitter}`}>
-                يمكنك متابعة الصفحة على الفيسبوك
+                يمكنك متابعة صفحتي على الفيسبوك
               </a>
             </p>
           </div>

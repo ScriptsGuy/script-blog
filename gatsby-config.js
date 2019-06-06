@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: `AlgerianScripter`,
-    author: `Salah Eddin Berriani`,
+    author: `صلاح الدين برياني`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `Scripts7`,
     },
   },
   plugins: [
