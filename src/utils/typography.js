@@ -25,10 +25,13 @@ Wordpress2016.headerWeight = 700
 //     fontWeight: 700,
 //   },
 // })
-Wordpress2016.overrideThemeStyles = () => {
+Wordpress2016.overrideThemeStyles = ({ rhythm }, options) => {
   return {
     "a.gatsby-resp-image-link": {
       boxShadow: `none`,
+    },
+    h1: {
+      fontFamily: "Cairo",
     },
   }
 }
