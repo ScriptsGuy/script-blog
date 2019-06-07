@@ -1,5 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
+import Typed from "react-typed"
+
 import "font-awesome/css/font-awesome.min.css"
 
 import { rhythm, scale } from "../utils/typography"
@@ -29,7 +31,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            <Typed strings={[title]} typeSpeed={100} />
           </Link>
         </h1>
       )
@@ -49,7 +51,7 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            <Typed strings={[title]} typeSpeed={40} />
           </Link>
         </h3>
       )
