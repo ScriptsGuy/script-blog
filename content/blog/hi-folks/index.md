@@ -1,13 +1,12 @@
 ---
-title: New Beginnings
+title: الانطلاق
 date: "2015-05-28T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.
+أما في الإنسان فلا يوجد عدد كبير من الدراسات التي اختصت بالفراولة، ولكن يوجد عدد أكبر من الدراسات التي تبحث أثر التوتيات ومكوناتها على الصحة. وكمثال أجريت دراسة لتوضيح أثر المركبات المتعددة الفينول الموجودة في الفراولة على مؤشرات الالتهاب واستجابة الإنسولين التي تحصل بعد الوجبة، ولهذا الغرض تم عمل الاختبار على 26 شخصا ذو أوزان زائدة، حيث تم إعطائهم وجبة عالية الكربوهيدرات ومتوسطة الدهن لتحفيز الإجهاد الالتهابي (inflammatory stress) الحاد والإجهاد التأكسدي (oxidative stress) الحاد، وتم إعطاء مجموعة منهم 10 جم من مسحوق الفراولة المجففة بالتفريز مع الوجبة، في حين أعطيت المجموعة الأخرى علاجا وهميا (placebo)، وأوضحت نتائج الدراسة أن تناول الفراولة له تأثير مباشر في تقليل الاستجابة الالتهابية وخفض كمية الإنسولين المفرزة بعد الوجبة. وتوضح نتائج هذه الدراسات وغيرها أثر الفراولة في محاربة حالة الالتهاب النشطة التي تؤدي إلى الإصابة بالعديد من الأمراض المزمنة.
+
+إ
 
 ## On deer horse aboard tritely yikes and much
 
@@ -51,11 +50,11 @@ Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
 didn’t listen. She packed her seven versalia, put her initial into the belt and
 made herself on the way.
 
-1.  So baboon this
-2.  Mounted militant weasel gregariously admonishingly straightly hey
-3.  Dear foresaw hungry and much some overhung
-4.  Rash opossum less because less some amid besides yikes jeepers frenetic
-    impassive fruitlessly shut
+1. دد أكبر من الدراسات التي تبحث أثر التوتيات ومكوناتها على الصحة. وكمثال أجريت دراسة لتوضيح أ
+2. Mounted militant weasel gregariously admonishingly straightly hey
+3. Dear foresaw hungry and much some overhung
+4. Rash opossum less because less some amid besides yikes jeepers frenetic
+   impassive fruitlessly shut
 
 When she reached the first hills of the Italic Mountains, she had a last view
 back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet

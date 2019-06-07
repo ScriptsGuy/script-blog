@@ -66,7 +66,7 @@ class Layout extends React.Component {
         }}
       >
         <header>{header}</header>
-        <main>{children}</main>
+        <main dir="rtl">{children}</main>
         <footer>
           <p>
             © {new Date().getFullYear()} Made with love{" "}
