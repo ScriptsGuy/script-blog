@@ -14,6 +14,10 @@ Wordpress2016.googleFonts = [
     name: "Cairo",
     styles: ["400", "400i", "700", "700i", "900", "900i"],
   },
+  {
+    name: "Inconsolata",
+    styles: ["400", "400i", "700", "700i", "900", "900i"],
+  },
 ]
 Wordpress2016.headerFontFamily = ["Cairo", "Georgia", "serif"]
 Wordpress2016.bodyFontFamily = ["Cairo", "Georgia", "serif"]
